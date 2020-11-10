@@ -1,6 +1,6 @@
 # Powershell Hornbill API Module
 
-# THIS MODULE HAS BEEN DEPRECATED AND REPLACED BY THE FOLLOWING MODULES
+## THIS MODULE HAS BEEN DEPRECATED AND REPLACED BY THE FOLLOWING MODULES
 
 - https://www.powershellgallery.com/packages/HornbillAPI/
 - https://www.powershellgallery.com/packages/HornbillHelpers/
